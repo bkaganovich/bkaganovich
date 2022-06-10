@@ -1,3 +1,5 @@
+GPG [11A96F3BF4F6DF956A23572D8BE5B42FB7D521D4](https://raw.githubusercontent.com/bkaganovich/bkaganovich/master/11A96F3BF4F6DF956A23572D8BE5B42FB7D521D4.asc)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
