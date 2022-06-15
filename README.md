@@ -1,4 +1,5 @@
-GPG: [8BE5B42FB7D521D4](https://raw.githubusercontent.com/bkaganovich/bkaganovich/master/8BE5B42FB7D521D4.asc)
+<details>
+    <summary>GPG: <a href="https://raw.githubusercontent.com/bkaganovich/bkaganovich/master/8BE5B42FB7D521D4.asc">8BE5B42FB7D521D4</a></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -54,3 +55,4 @@ TZwObc2OJ14wcUjtcs/dXDkYE5/k+eSRSb22b4/ct4CcGVhcVt+Wtz/a4/rrGigC
 =tcon
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+</details>
