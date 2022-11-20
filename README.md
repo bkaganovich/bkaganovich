@@ -56,3 +56,5 @@ TZwObc2OJ14wcUjtcs/dXDkYE5/k+eSRSb22b4/ct4CcGVhcVt+Wtz/a4/rrGigC
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkaganovich&layout=compact)](#)
